@@ -1132,7 +1132,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 960974021101259891, guid: c7091adeff77c5545a96e7099d42181f, type: 3}
       propertyPath: m_CameraYOffset
-      value: -0.4
+      value: -0.5
       objectReference: {fileID: 0}
     - target: {fileID: 960974021101259894, guid: c7091adeff77c5545a96e7099d42181f, type: 3}
       propertyPath: m_Enabled
